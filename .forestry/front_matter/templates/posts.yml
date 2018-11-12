@@ -9,4 +9,4 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/this-is-what-a-post-is.md
+- _posts/2018-11-12-this-is-what-a-post-is.md
