@@ -12,3 +12,5 @@ fields:
 - type: file
   label: Pet picture
   name: pet_picture
+pages:
+- riggs.md
