@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: _pets
   label: Pets
   create: all
-  match: "**/*"
+  match: "/*"
   templates:
   - pets
 - type: heading
