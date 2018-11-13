@@ -8,7 +8,7 @@ sections:
   path: _pets
   label: Pets
   create: all
-  match: "/*"
+  match: "*"
   templates:
   - pets
 - type: heading
